@@ -7,7 +7,7 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
+global.owner = ['94764206714'] //ur owner number
 global.ownername = "Janith sadanuwan" //ur owner name
 
 //Bot Name 
@@ -39,7 +39,7 @@ global.AUTO_BIO = false
 global.INBOX_BLOCK = false
 
 //Inbox Block MSG
-global.INBOX_BLOCK_MSG = 'blockedd'
+global.INBOX_BLOCK_MSG = 'true'
 
 //Anti Bad word
 global.ANTI_BADWORD = 'true'
